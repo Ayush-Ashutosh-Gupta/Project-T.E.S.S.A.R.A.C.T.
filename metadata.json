@@ -1,0 +1,6 @@
+{
+  "name": "TESSARACT",
+  "description": "Project T.E.S.S.A.R.A.C.T. - Local-first voice assistant with offline speech processing, foreground thermal protection, and HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

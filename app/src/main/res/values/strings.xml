@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TESSARACT</string>
+    <string name="accessibility_service_description">T.E.S.S.A.R.A.C.T. Accessibility Service enables automated screen scraping, screenshot capture, and voice-assisted display automation.</string>
+</resources>
